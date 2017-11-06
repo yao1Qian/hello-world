@@ -1,2 +1,3 @@
 # hello-world
-easy one
+coding with math!
+programing in math!
